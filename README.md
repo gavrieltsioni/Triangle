@@ -8,5 +8,5 @@
 
 	This project was completed in Java and implements a "Triangle" data structure.
 
--
+--
 	Gavriel Tsioni
